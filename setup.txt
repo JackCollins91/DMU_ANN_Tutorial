@@ -1,7 +1,7 @@
-tensorflow
-keras-tuner
-scikit-learn
-pandas
-numpy
-matplotlib
-shap
+keras-tuner==1.3.5
+matplotlib==3.7.1
+numpy==1.23.5
+pandas==2.0.2
+scikit-learn==1.2.2
+tensorflow==2.12.0
+shap==0.41.0
