@@ -1,9 +1,6 @@
-name: C:\Users\jocollin\AppData\Local\miniconda3\envs\my_env
+name: my_env
 channels:
   - defaults
-  - https://repo.anaconda.com/pkgs/main
-  - https://repo.anaconda.com/pkgs/r
-  - https://repo.anaconda.com/pkgs/msys2
 dependencies:
   - anyio=4.6.2=py311haa95532_0
   - argon2-cffi=21.3.0=pyhd3eb1b0_0
